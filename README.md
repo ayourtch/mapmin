@@ -1,3 +1,5 @@
+All further development will be happening in https://github.com/ayourtch/nat46 - please use that repository.
+
 mapmin
 ======
 
