@@ -1,4 +1,8 @@
-All further development will be happening in https://github.com/ayourtch/nat46 - please use that repository.
+The MAP support is now in the OpenWRT trunk, so please use the "map" package in the routing feed, and
+configure "odhcp6c" with MAP option to allow for DHCPv6 provisioning. 
+
+The kernel module required to do MAP-T is also part of the "routing" feed and is called "nat46" - 
+and its further development will be happening in https://github.com/ayourtch/nat46 - please use that repository.
 
 mapmin
 ======
